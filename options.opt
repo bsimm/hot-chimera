@@ -1,0 +1,7 @@
+;use pmars -@ options.opt file1 [files...]
+
+-s 8000       ;coresize
+-p 10000      ;max. proc.
+-c 50000      ;cycles
+-l 200        ;warrior length
+-v 704        ;coreview mode
